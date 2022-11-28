@@ -1,2 +1,2 @@
-# movie-card
- movie card with js
+#card
+ persona card with js
