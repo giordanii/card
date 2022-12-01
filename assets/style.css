@@ -130,3 +130,9 @@ footer a {
 footer a:hover{
     text-decoration: underline;
 }
+
+@media (min-height: 600px) {
+    body {
+        overflow: hidden;
+}
+}
