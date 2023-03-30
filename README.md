@@ -1,2 +1,2 @@
 # Card<br>
-<p>persona card with js</p>
+<p>Testing a learn more button with vanilla JS</p>
